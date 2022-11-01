@@ -1,0 +1,3 @@
+# nuxtTest
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-yjcinx)
